@@ -1,5 +1,8 @@
-LH_CD_Diovani_Dupont
+Desafio Cientista de Dados - Indicium
 ==============================
+<p align="center">
+<img src="https://github.com/diovani-dupont/Desafio-Cientista-de-Dados-Indicium/assets/109030838/4249fab9-1e09-45c5-852e-bd0c457181f2" alt="indicium" width="900">
+</p>
 
 Este projeto foi desenvolvido como parte de um desafio técnico proposto pela Indicium, visando demonstrar habilidades em resolução de problemas de negócios, análise de dados e aplicação de modelos preditivos no contexto do mercado de aluguéis temporários. Utilizando um conjunto de dados do maior concorrente no mercado de Nova York, o objetivo foi realizar uma análise exploratória de dados (EDA) abrangente, seguida pelo desenvolvimento e validação de um modelo preditivo para a precificação de imóveis listados na plataforma.
 

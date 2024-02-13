@@ -43,10 +43,9 @@ O notebook aborda as seguintes etapas:
 ### Instalação
 1. **Clone o repositório** ou baixe o arquivo do projeto.
 2. **Instale as dependências** usando o arquivo `requirements.txt` incluído no projeto:
+3. pip install -r requirements.txt
 
 ```bash
-pip install -r requirements.txt
-
 
 Organização do projeto
 ------------
